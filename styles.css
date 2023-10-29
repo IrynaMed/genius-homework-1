@@ -1,0 +1,39 @@
+/*Button*/
+
+.button {
+  color: #2B7FFF;
+  background-color: aqua;
+  border-radius: 32px;
+  font-weight:600;
+ }
+
+.button-hover {
+background-color: aqua;
+}
+
+/*Body*/
+
+.body {
+  color: #2B7FFF;
+  font-family: Play; sans-serif;
+  font-size: 140 px;
+  font-weight: 700px;
+  line-height: 1,2;
+}
+
+.ul {
+    list-style-type: none;
+}
+.hero-title{
+  color: #2B7FFF;
+  text-transform: capitalize;
+  font-size: 140 px;
+}
+/*link*/
+
+.link {
+  color: #011C44;
+  font-weight: 400;
+  line-height: 1,15;
+}
+
