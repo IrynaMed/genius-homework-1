@@ -24,7 +24,8 @@ background-color: aqua;
 .ul {
     list-style-type: none;
 }
-.hero-title{
+
+.hero-title {
   color: #2B7FFF;
   text-transform: capitalize;
   font-size: 140 px;
